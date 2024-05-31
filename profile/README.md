@@ -4,7 +4,7 @@
 
 ## Important Links
 - [View our website](https://bargain-bites.co.uk)
-- [View our guides](https:/)
+- [View our guides](https://guides.bargain-bites.co.uk)
 - [Join the Discord](https://discord.com/invite/jadebot)
 
 
